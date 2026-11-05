@@ -1,0 +1,7 @@
+server.js
+.env
+.env.*
+__pycache__/
+*.py[cod]
+data/faiss_index.bin
+data/*.pkl
